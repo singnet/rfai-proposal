@@ -6,15 +6,15 @@ A browsable version of all current and draft EIPs can be found on the official R
 ## Creating a request
 
 * Fork the repository by clicking "Fork" in the top right.
-* Add your request to your fork of the repository. There is a template here for reference.
+* Add your request to your fork of the repository. There is a template [here](rfai-proposal-template.md) for reference.
 * Submit a Pull Request to singnet/rfai-proposal
-* Create your request on the rfai portal and back it with the desired AGI tokens
+* Create your request on the [RFAI portal]() and back it with the desired AGI tokens
 
 Requests should be detailed enough to allow discussion and development. We would also like to have an objective and measurable acceptance criteria (get accuracy above X% of this data, etc). 
 
 ## Evaluation of request
 
-Each request created via the RFAI portal will be reviewed by the foundation. The approved requests will show up on the portal for others to view and back as well.
+Each request created via the [RFAI portal]() will be reviewed by the foundation. The approved requests will show up on the portal for others to view and back as well.
 In general we look for 
 * Clear problem description
 * Relevant problem which if solved will help the community
@@ -23,7 +23,7 @@ In general we look for
 ## Submission Overview
 
 Submissions for a request need to be published on the SingularityNet platform to be considered. 
-Please refer to dev.singularitynet.io for instructions on publishing services on the platform.
+Please refer to this [tutorial](https://dev.singularitynet.io/tutorials/publish/) for instructions on publishing services on the platform.
 
 ## Submission Evaluation
 
