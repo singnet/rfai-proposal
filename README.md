@@ -5,13 +5,13 @@ A browsable version of all current and draft EIPs can be found on the official R
 
 ## Creating a request
 
-* Create your request on the [RFAI portal]() and back it with the desired AGI tokens
+* Create your request on the [RFAI portal](https://rfai.singularitynet.io/) and back it with the desired AGI tokens
 
 Requests should be detailed enough to allow discussion and development. We would also like to have an objective and measurable acceptance criteria (get accuracy above X% of this data, etc). 
 
 ## Evaluation of request
 
-Each request created via the [RFAI portal]() will be reviewed by the foundation. The approved requests will show up on the portal for others to view and back as well.
+Each request created via the [RFAI portal](https://rfai.singularitynet.io/) will be reviewed by the foundation. The approved requests will show up on the portal for others to view and back as well.
 In general we look for 
 * Clear problem description
 * Relevant problem which if solved will help the community
@@ -24,7 +24,7 @@ Please refer to this [tutorial](https://dev.singularitynet.io/tutorials/publish/
 
 ## Submission Process
 
-* Submit your service on the [RFAI portal]()
+* Submit your service on the [RFAI portal](https://rfai.singularitynet.io/)
 * Sign your request using the same address used to publish the service. This is an important step to ensure that you are the owner of the service.
 
 ## Submission Evaluation
